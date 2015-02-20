@@ -1,0 +1,8 @@
+<View
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/vertical_line"
+    android:layout_width="fill_parent"
+    android:layout_height="1dp"
+    android:layout_marginTop="5dp"
+    android:rotation="90"
+    android:background="@android:color/darker_gray" />

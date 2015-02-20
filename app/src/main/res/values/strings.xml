@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mGit</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="user">User name</string>
+    <string name="password">Password</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="authenticating">Authenticating...</string>
+    <string name="invalid_login">Invalid username/password</string>
+
+    <!-- Drawer titles -->
+    <string name="drawer_title_organization">Organizations</string>
+    <string name="drawer_title_my_repos">My repositories</string>
+    <string name="drawer_title_starred">Starred</string>
+    <string name="drawer_title_followers">Followers</string>
+    <string name="drawer_title_following">Following</string>
+    <string name="drawer_title_settings">Settings</string>
+    <string name="drawer_title_donations">Donations</string>
+    <string name="unknown">Unknown</string>
+
+</resources>

@@ -1,0 +1,16 @@
+gradlew.bat
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+
+# iml's
+/app/*.iml
+
+# apk's
+*.apk
+/app/*.apk
+
+/.idea
+manifest-merger-release-report.txt
